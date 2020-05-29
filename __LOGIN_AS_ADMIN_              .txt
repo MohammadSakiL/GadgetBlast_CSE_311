@@ -1,0 +1,11 @@
+To login as Admin:
+
+localhost/phpmyadmin/admin/login.php
+
+
+User Name : shakil@gmail.com
+Password  : shakil
+
+
+
+**Microsoft EDGE
